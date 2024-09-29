@@ -8,7 +8,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import glob
 # import japanize_matplotlib
 
-from src.ShiftScheduler import ShiftScheduler
+from scr.ShiftScheduler import ShiftScheduler
 import pulp
 import matplotlib.pyplot as plt
 
